@@ -1,0 +1,34 @@
+{
+    "name": "Keybinds",
+    "maps": [
+        {
+            "name": "Keyboard",
+            "id": "6884fbc9-d698-409f-a75e-166e17184525",
+            "actions": [
+                {
+                    "name": "playDrums",
+                    "type": "Button",
+                    "id": "d304ca72-4ae5-4850-a697-fdc90d80d813",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "058eea92-c795-4054-b545-c9d91eddeb84",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "playDrums",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
